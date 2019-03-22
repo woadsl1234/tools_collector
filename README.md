@@ -7,8 +7,8 @@ https://paper.tuisec.win/detail/514c976ca3510cc
 
 ### nmap插件
 #### Freevulnsearch - Free And Open NMAP NSE Script To Query Vulnerabilities Via The cve-search.org API
-https://github.com/OCSAF/freevulnsearch
-nmap -sV --script freevulnsearch www.ckj123.com
+https://github.com/OCSAF/freevulnsearch  
+`nmap -sV --script freevulnsearch www.ckj123.com`
 
 ## 漏洞挖掘
 ### poc开源框架
@@ -18,8 +18,8 @@ https://paper.seebug.org/857/
 ### 渗透框架
 #### pupy
 可以生成
-https://github.com/n1nj4sec/pupy
-使用手册: https://www.hackingarticles.in/command-control-tool-pupy/
+https://github.com/n1nj4sec/pupy  
+使用手册: https://www.hackingarticles.in/command-control-tool-pupy/  
 使用手册: https://github.com/n1nj4sec/pupy/wiki/Installation#docker-compose
 
 ## 内网渗透
