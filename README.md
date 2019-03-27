@@ -22,6 +22,10 @@ https://github.com/n1nj4sec/pupy
 使用手册: https://www.hackingarticles.in/command-control-tool-pupy/  
 使用手册: https://github.com/n1nj4sec/pupy/wiki/Installation#docker-compose
 
+#### kage
+https://github.com/WayzDev/Kage
+msf的gui版本
+
 ## 内网渗透
 ### 代理转发
 #### reGeorg
