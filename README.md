@@ -8,7 +8,7 @@ https://paper.tuisec.win/detail/514c976ca3510cc
 ### nmap插件
 #### Freevulnsearch - Free And Open NMAP NSE Script To Query Vulnerabilities Via The cve-search.org API
 https://github.com/OCSAF/freevulnsearch  
-`nmap -sV --script freevulnsearch www.ckj123.com`
+`nmap -sVC --script freevulnsearch www.ckj123.com`
 
 ## 漏洞挖掘
 ### poc开源框架
@@ -35,6 +35,12 @@ weevely <URL> <password> [cmd]
 ```
 
 ## 内网渗透
+
+### 密码破解
+### JohnTheRipper
+https://github.com/magnumripper/JohnTheRipper
+`john shadow.txt`
+
 ### 代理转发
 #### reGeorg
 https://github.com/zsxsoft/reGeorg.git
