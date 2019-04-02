@@ -26,6 +26,14 @@ https://github.com/n1nj4sec/pupy
 https://github.com/WayzDev/Kage
 msf的gui版本
 
+#### Weevely
+https://github.com/epinna/weevely3
+小马生成器
+```
+weevely generate <password> <path>
+weevely <URL> <password> [cmd]
+```
+
 ## 内网渗透
 ### 代理转发
 #### reGeorg
