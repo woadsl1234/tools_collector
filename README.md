@@ -5,6 +5,9 @@
 #### 自动监控目标子域，助你快速挖洞——Sublert
 https://paper.tuisec.win/detail/514c976ca3510cc
 
+#### get-domain
+https://github.com/guimaizi/get_domain
+
 ### nmap插件
 #### Freevulnsearch - Free And Open NMAP NSE Script To Query Vulnerabilities Via The cve-search.org API
 https://github.com/OCSAF/freevulnsearch  
