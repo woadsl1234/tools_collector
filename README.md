@@ -18,6 +18,10 @@ https://github.com/OCSAF/freevulnsearch
 #### pocsuite3 
 https://paper.seebug.org/857/
 
+### burp插件
+#### 将unicode转中文
+https://github.com/stayliv3/burpsuite-changeU.git
+
 ### 扫描工具
 #### Gourdscan v2.1 被动式漏洞扫描系统
 https://github.com/ysrc/GourdScanV2
