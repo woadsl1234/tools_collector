@@ -18,6 +18,10 @@ https://github.com/OCSAF/freevulnsearch
 #### pocsuite3 
 https://paper.seebug.org/857/
 
+### 扫描工具
+#### Gourdscan v2.1 被动式漏洞扫描系统
+https://github.com/ysrc/GourdScanV2
+
 ### 渗透框架
 #### pupy
 可以生成
@@ -43,6 +47,8 @@ weevely <URL> <password> [cmd]
 ### JohnTheRipper
 https://github.com/magnumripper/JohnTheRipper
 `john shadow.txt`
+
+
 
 ### 代理转发
 #### reGeorg
