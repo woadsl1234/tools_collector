@@ -26,6 +26,9 @@ https://github.com/stayliv3/burpsuite-changeU.git
 #### Gourdscan v2.1 被动式漏洞扫描系统
 https://github.com/ysrc/GourdScanV2
 
+#### dzscan dz扫描工具
+https://github.com/code-scan/dzscan
+
 ### 渗透框架
 #### pupy
 可以生成
