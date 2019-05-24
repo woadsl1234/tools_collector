@@ -22,6 +22,9 @@ https://paper.seebug.org/857/
 #### 将unicode转中文
 https://github.com/stayliv3/burpsuite-changeU.git
 
+#### domain hunter
+https://github.com/bit4woo/domain_hunter
+
 ### 扫描工具
 #### Gourdscan v2.1 被动式漏洞扫描系统
 https://github.com/ysrc/GourdScanV2
@@ -30,6 +33,9 @@ https://github.com/ysrc/GourdScanV2
 https://github.com/code-scan/dzscan
 
 ### 渗透框架
+#### Pymetasploit3
+https://nosec.org/home/detail/2663.html
+
 #### 溯光
 https://github.com/iSafeBlue/TrackRay
 
